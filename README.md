@@ -41,6 +41,12 @@ Machine Learning is teaching computers to think. If we can do that successfully 
 
 
 
+#### Note:
+As for the optional coding part of the challenge, my Jupyter Notebook isn’t working so I’m unable to post code but here are examples of Handwritten Digit Recognition examples I used for my own learning. 
+
+https://github.com/milindsoorya/Neural-Network-For-Handwritten-Digits-Classification/blob/main/Neural_Network_For_Handwritten_Digits_Classification_.ipynb
+
+https://machinelearningmastery.com/how-to-develop-a-convolutional-neural-network-from-scratch-for-mnist-handwritten-digit-classification/
 
 
 
